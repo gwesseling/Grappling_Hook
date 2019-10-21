@@ -1,0 +1,8 @@
+name: Grappling_Hook
+version: 1.0
+main: me.a_new_hunter.grappling_hook.Main
+author: a_new_hunter
+description: Grappling hook.
+commands:
+    grappling_hook:
+      description: Get a grappling hook.
